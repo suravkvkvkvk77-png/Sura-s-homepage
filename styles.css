@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+main {
+    min-height: 80vh;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+.card {
+    transition: transform 0.2s;
+    border-radius: 15px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+}
+
+.btn-primary:hover {
+    background-color: #ff4fa3;
+    border-color: #ff4fa3;
+}
+
+footer {
+    background-color: #212529;
+    color: white;
+}

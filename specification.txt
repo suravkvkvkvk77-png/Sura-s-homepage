@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <nav> - Creates the navigation bar.
+2. <div> - Organizes and groups the content.
+3. <a> - Creates links between the pages.
+4. <main> - Contains the main content of each page.
+5. <h1> - Displays the main heading.
+6. <h2> - Displays headings for the cards.
+7. <p> - Displays paragraphs and descriptions.
+8. <button> - Creates the interactive JavaScript button.
+9. <footer> - Displays the footer of the website.
+10. <script> - Connects JavaScript files to the HTML pages.
+
+CSS Properties Used:
+1. font-family
+2. background-color
+3. font-weight
+4. min-height
+5. margin-top
+
+JavaScript:
+JavaScript is used to make the homepage interactive by changing a message when the user clicks the "Click me" button.
+
+Bootstrap:
+Bootstrap is used to create the responsive navigation bar, cards, buttons, grid layout, and responsive design of the website.
